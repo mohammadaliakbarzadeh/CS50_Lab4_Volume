@@ -1,4 +1,3 @@
-# CS50_Lab4_Volume
 // Modifies the volume of an audio file
 
 #include <stdint.h>
